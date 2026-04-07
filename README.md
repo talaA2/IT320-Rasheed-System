@@ -28,11 +28,9 @@ Rasheed is a web-based reporting system designed to help residents report water 
 - HTML
 - CSS
 - JavaScript
-- Font Awesome
 - Google Fonts
 
 ## Project Structure
 ```text
 src/      -> frontend source files
-docs/     -> report, diagrams, screenshots
-planning/ -> backlog and supporting planning files
+docs/     -> report, diagrams
