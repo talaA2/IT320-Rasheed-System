@@ -6,13 +6,13 @@ Rasheed System
 ## Team Members
 
 1. Shatha bin mana - 445202291  
-   Role/Contribution: Class diagram, frontend pages
+   Role/Contribution: Class diagram, report checking, frontend pages
 
 2. Tala Alqahtani - 445204552  
    Role/Contribution: component design, navigation diagram, frontend pages
 
 3. Lama Almubarak - 445200338  
-   Role/Contribution: System architechture, frontend pages
+   Role/Contribution: System architechture, data dictionary, frontend pages
 
 4. Jood Alkhneen - 445201348  
    Role/Contribution: data design, admin interface , frontend pages
