@@ -18,7 +18,7 @@ Rasheed System
    Role/Contribution: Data design, admin interface , frontend pages
 
 ## Course Information
-Course: IT320  Practical Software Engineering
+Course: IT320 Practical Software Engineering
 Institution: King Saud University
 
 ## Notes
