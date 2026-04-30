@@ -26,7 +26,6 @@ Rasheed is a web-based reporting system designed to help residents report water 
 - View submitted reports.
 - Open report details.
 - Update report status.
-- Trigger notifications and reward points when reports are completed.
 
 ## Technologies Used
 - HTML
