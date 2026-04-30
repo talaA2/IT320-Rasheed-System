@@ -68,7 +68,7 @@ IT320-Rasheed-System/
 │   ├── db.php
 │   ├── style.css
 │   ├── images/
-│   └── uploads/
+│   
 │
 ├── docs/
 │   └── Phase4_Report.docx
